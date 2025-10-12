@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/miles/curseforge/minecraft/Instances/Customized Cursed Walking/saves/Test
+}
+
