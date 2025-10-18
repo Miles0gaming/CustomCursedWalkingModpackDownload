@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 9
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "minecraft:logs"
+      },
+      "count": 18
+    },
+    {
+      "item": {
+        "item": "pointblank:gunmetal_ingot"
+      },
+      "count": 28
+    }, 
+    {
+      "item": {
+        "item": "pointblank:guninternals"
+      },
+      "count": 9
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "ww:m1"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

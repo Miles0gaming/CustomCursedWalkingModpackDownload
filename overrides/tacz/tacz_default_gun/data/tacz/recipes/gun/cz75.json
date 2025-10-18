@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "item": "pointblank:gunmetal_ingot"
+      },
+      "count": 12
+    }, 
+    {
+      "item": {
+        "item": "pointblank:guninternals"
+      },
+      "count": 3
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:cz75"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

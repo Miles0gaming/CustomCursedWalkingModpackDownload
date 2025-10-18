@@ -1,0 +1,56 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 40
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 20
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/netherite"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 15
+    },
+    {
+      "item": {
+        "item": "pointblank:gunmetal_ingot"
+      },
+      "count": 29
+    }, 
+    {
+      "item": {
+        "item": "pointblank:guninternals"
+      },
+      "count": 22
+    },
+    {
+      "item": {
+        "item": "pointblank:motor"
+      }
+    },
+    {
+      "item": {
+        "tag": "forge:rods/blaze"
+      },
+      "count": 10
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:minigun"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

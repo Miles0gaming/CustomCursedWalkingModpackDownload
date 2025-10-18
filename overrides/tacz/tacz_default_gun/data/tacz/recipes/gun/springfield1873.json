@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "minecraft:logs"
+      },
+      "count": 15
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "item": "pointblank:gunmetal_ingot"
+      },
+      "count": 9
+    }, 
+    {
+      "item": {
+        "item": "pointblank:guninternals"
+      },
+      "count": 4
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:springfield1873"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

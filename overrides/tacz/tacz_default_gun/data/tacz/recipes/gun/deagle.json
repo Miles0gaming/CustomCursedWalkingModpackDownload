@@ -1,0 +1,44 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 9
+    },
+    {
+      "item": {
+        "item": "pointblank:gunmetal_ingot"
+      },
+      "count": 12
+    }, 
+    {
+      "item": {
+        "item": "pointblank:guninternals"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "tag": "forge:rods/blaze"
+      }
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:deagle"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}
