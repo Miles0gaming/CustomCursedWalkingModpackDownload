@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = false
-  world = C:/Users/miles/curseforge/minecraft/Instances/Customized Cursed Walking/saves/Round 2
+  is_server = true
+  world = city-officer.gl.joinmc.link:25565
 }
 

@@ -127,7 +127,9 @@
       "endTimestamp": "",
       "buttons": {}
     },
-    "dynamicIcons": {},
+    "dynamicIcons": {
+      "city-officer.gl.joinmc.link": "https://api.mcsrvstat.us/icon/city-officer.gl.joinmc.link"
+    },
     "dynamicVariables": {
       "mods": "{general.mods} Mod(s)",
       "player_info_coordinate": "At {player.position.x}, {player.position.z}",

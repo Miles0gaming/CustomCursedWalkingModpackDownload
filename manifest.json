@@ -12,7 +12,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Customized Cursed Walking",
-  "version": "0.2",
+  "version": "0.3",
   "author": "",
   "files": [
     {
@@ -336,6 +336,11 @@
       "required": true
     },
     {
+      "projectID": 439890,
+      "fileID": 6901922,
+      "required": true
+    },
+    {
       "projectID": 630342,
       "fileID": 4709560,
       "required": true
@@ -477,7 +482,7 @@
     },
     {
       "projectID": 915902,
-      "fileID": 7092498,
+      "fileID": 7124808,
       "required": true
     },
     {
@@ -516,13 +521,13 @@
       "required": true
     },
     {
-      "projectID": 263420,
-      "fileID": 6778028,
+      "projectID": 936015,
+      "fileID": 6742615,
       "required": true
     },
     {
-      "projectID": 936015,
-      "fileID": 6742615,
+      "projectID": 263420,
+      "fileID": 6778028,
       "required": true
     },
     {
@@ -537,7 +542,7 @@
     },
     {
       "projectID": 448233,
-      "fileID": 7110590,
+      "fileID": 7125341,
       "required": true
     },
     {
@@ -736,13 +741,13 @@
       "required": true
     },
     {
-      "projectID": 414350,
-      "fileID": 6186316,
+      "projectID": 274259,
+      "fileID": 4882500,
       "required": true
     },
     {
-      "projectID": 274259,
-      "fileID": 4882500,
+      "projectID": 414350,
+      "fileID": 6186316,
       "required": true
     },
     {
@@ -751,13 +756,13 @@
       "required": true
     },
     {
-      "projectID": 678036,
-      "fileID": 5625925,
+      "projectID": 693313,
+      "fileID": 6616784,
       "required": true
     },
     {
-      "projectID": 693313,
-      "fileID": 6616784,
+      "projectID": 678036,
+      "fileID": 5625925,
       "required": true
     },
     {
@@ -771,13 +776,13 @@
       "required": true
     },
     {
-      "projectID": 917449,
-      "fileID": 6907071,
+      "projectID": 688768,
+      "fileID": 6652836,
       "required": true
     },
     {
-      "projectID": 688768,
-      "fileID": 6652836,
+      "projectID": 917449,
+      "fileID": 6907071,
       "required": true
     },
     {
@@ -831,23 +836,23 @@
       "required": true
     },
     {
-      "projectID": 915308,
-      "fileID": 5962530,
-      "required": true
-    },
-    {
       "projectID": 388172,
       "fileID": 7025129,
       "required": true
     },
     {
-      "projectID": 883287,
-      "fileID": 5324825,
+      "projectID": 915308,
+      "fileID": 5962530,
       "required": true
     },
     {
       "projectID": 623764,
       "fileID": 6421940,
+      "required": true
+    },
+    {
+      "projectID": 883287,
+      "fileID": 5324825,
       "required": true
     },
     {
@@ -861,13 +866,13 @@
       "required": true
     },
     {
-      "projectID": 880630,
-      "fileID": 6231030,
+      "projectID": 260262,
+      "fileID": 5929061,
       "required": true
     },
     {
-      "projectID": 260262,
-      "fileID": 5929061,
+      "projectID": 880630,
+      "fileID": 6231030,
       "required": true
     },
     {
@@ -896,23 +901,13 @@
       "required": true
     },
     {
-      "projectID": 388800,
-      "fileID": 6450982,
-      "required": true
-    },
-    {
       "projectID": 948704,
       "fileID": 5572500,
       "required": true
     },
     {
-      "projectID": 438447,
-      "fileID": 6318263,
-      "required": true
-    },
-    {
-      "projectID": 243190,
-      "fileID": 6993788,
+      "projectID": 388800,
+      "fileID": 6450982,
       "required": true
     },
     {
@@ -921,18 +916,28 @@
       "required": true
     },
     {
+      "projectID": 243190,
+      "fileID": 6993788,
+      "required": true
+    },
+    {
+      "projectID": 438447,
+      "fileID": 6318263,
+      "required": true
+    },
+    {
       "projectID": 854949,
       "fileID": 6923652,
       "required": true
     },
     {
-      "projectID": 354339,
-      "fileID": 5368592,
+      "projectID": 348521,
+      "fileID": 5729105,
       "required": true
     },
     {
-      "projectID": 348521,
-      "fileID": 5729105,
+      "projectID": 354339,
+      "fileID": 5368592,
       "required": true
     },
     {
@@ -956,13 +961,13 @@
       "required": true
     },
     {
-      "projectID": 1152836,
-      "fileID": 6727214,
+      "projectID": 930207,
+      "fileID": 5650506,
       "required": true
     },
     {
-      "projectID": 930207,
-      "fileID": 5650506,
+      "projectID": 1152836,
+      "fileID": 6727214,
       "required": true
     },
     {
