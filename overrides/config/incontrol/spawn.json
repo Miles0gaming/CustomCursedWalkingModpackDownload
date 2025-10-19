@@ -3,7 +3,8 @@
     "dimension": "minecraft:overworld",
     "mod": "mutantmonsters",
     "when": "onjoin",
-    "result": "deny"
+    "random":  0.0125,
+    "result": "allow"
   },
   {
     "dimension": "minecraft:overworld",
