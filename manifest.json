@@ -12,7 +12,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Customized Cursed Walking",
-  "version": "0.3",
+  "version": "0.4",
   "author": "",
   "files": [
     {
@@ -226,6 +226,11 @@
       "required": true
     },
     {
+      "projectID": 439890,
+      "fileID": 6901922,
+      "required": true
+    },
+    {
       "projectID": 586157,
       "fileID": 5772681,
       "required": true
@@ -336,11 +341,6 @@
       "required": true
     },
     {
-      "projectID": 439890,
-      "fileID": 6901922,
-      "required": true
-    },
-    {
       "projectID": 630342,
       "fileID": 4709560,
       "required": true
@@ -352,7 +352,7 @@
     },
     {
       "projectID": 1140880,
-      "fileID": 7122422,
+      "fileID": 7126107,
       "required": true
     },
     {
@@ -441,8 +441,13 @@
       "required": true
     },
     {
+      "projectID": 500273,
+      "fileID": 6798189,
+      "required": true
+    },
+    {
       "projectID": 342584,
-      "fileID": 7120358,
+      "fileID": 7127161,
       "required": true
     },
     {
@@ -781,8 +786,8 @@
       "required": true
     },
     {
-      "projectID": 917449,
-      "fileID": 6907071,
+      "projectID": 867232,
+      "fileID": 6675233,
       "required": true
     },
     {
@@ -942,7 +947,7 @@
     },
     {
       "projectID": 1196357,
-      "fileID": 6559582,
+      "fileID": 7130538,
       "required": true
     },
     {
@@ -992,7 +997,7 @@
     },
     {
       "projectID": 1154099,
-      "fileID": 7119264,
+      "fileID": 7128248,
       "required": true
     },
     {
@@ -1082,7 +1087,7 @@
     },
     {
       "projectID": 433760,
-      "fileID": 7100449,
+      "fileID": 7129302,
       "required": true
     },
     {

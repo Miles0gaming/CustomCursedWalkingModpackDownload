@@ -1,7 +1,7 @@
 {
   "disableVanillaPortals": {
     "desc:": "Disables vanilla portals, default:false",
-    "disableVanillaPortals": true
+    "disableVanillaPortals": false
   },
   "teleportCooldown": {
     "desc:": "Sets a delay before you can teleport again, default:15 seconds",
