@@ -12,6 +12,9 @@
 	"Mob Whitelist" = []
 	#A list of mobs that will not scale, even if they're monsters
 	"Mob Blacklist" = []
+	#If true, mob scaling speed will increase with more players in the world, up to 2x with 5 players
+	#Scaling will also cease if no players are on the server
+	"Scale with Player Count" = true
 
 [Health]
 	#The decimal amount that hostile mobs' health increase per day

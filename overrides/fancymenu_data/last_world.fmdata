@@ -2,6 +2,6 @@ type = last_world
 
 last_world {
   is_server = false
-  world = C:/Users/miles/curseforge/minecraft/Instances/Test Customized Cursed Walking/saves/Round 4
+  world = C:/Users/miles/curseforge/minecraft/Instances/Testing Customized Cursed Walking/saves/Server Test
 }
 

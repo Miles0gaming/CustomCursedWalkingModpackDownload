@@ -4369,6 +4369,17 @@
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = true
 
+	#Spawning options for jeffs_cursed_walking_structures:warehouse_spawner_placer
+	[jeffs_cursed_walking_structures.warehouse_spawner_placer]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
 #Options for the fallingtrees mod.
 [fallingtrees]
 
@@ -5812,31 +5823,6 @@
 
 	#Spawning options for perfectplushieapi:wandering_plushie_trader
 	[perfectplushieapi.wandering_plushie_trader]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
-
-#Options for the the_deeper_void mod.
-[the_deeper_void]
-
-	#Spawning options for the_deeper_void:smoker_living_entity
-	[the_deeper_void.smoker_living_entity]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
-
-	#Spawning options for the_deeper_void:chain_living_entity
-	[the_deeper_void.chain_living_entity]
 		#Should the entity be allowed to spawn normally?
 		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
