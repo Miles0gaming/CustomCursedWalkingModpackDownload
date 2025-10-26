@@ -49,6 +49,21 @@ ServerEvents.recipes(event => {
       ]
     })
 
+    //Adds recipes from Create Additional Recipes without having to get the mod
+    event.custom({
+      "type": "create:mixing",
+      "ingredients": [
+        {"item": "minecraft:andesite"},
+        {"item": "minecraft:andesite"},
+        {"item": "minecraft:diorite"},
+        {"item": "minecraft:diorite"},
+        {"fluid": "minecraft:lava", "amount": 50}
+      ],
+      "results": [
+        {"item": "minecraft:tuff"}
+      ]
+    })
+
     //<<<<<<< MC7-Gold-Dupe-Patch
     
    // patch the infinite gold/xp crystals bug where you could infinitely recycle gilded blackstone. You can still crush it, but you can no longer make it.
